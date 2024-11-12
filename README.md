@@ -1,3 +1,5 @@
+**FIT1008 A1**
+
 This Assignment is to implement paint system by our own
 Task: able to paint different colour on screen provided
       able to undo the colour using stack
